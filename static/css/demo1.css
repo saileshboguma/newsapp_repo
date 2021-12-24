@@ -1,0 +1,25 @@
+h1{
+  color: white;
+  font-size: 30px;
+
+}
+body{
+  background: url(https://images.unsplash.com/photo-1554357907-3bd206cdaffe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
+  background-size: cover;
+}
+
+.jumbotron .container{
+  background: #878c20;
+  color: white;
+  margin-top: 150px;
+}
+ul{
+  color: yellow;
+  font-size: 20px;
+}
+img{
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  border: 3px solid brown;
+}
